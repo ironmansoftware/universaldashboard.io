@@ -1,3 +1,6 @@
 remote_theme: mmistakes/minimal-mistakes
 
 title: "Universal Dashboard"
+description: "Universal Dashboard is a cross-platform PowerShell module for developing and hosting web-based, interactive dashboards."
+url: "https://universaldashboard.io"
+repository: "ironmansoftware/universaldashboard.io"
