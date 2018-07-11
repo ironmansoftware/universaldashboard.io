@@ -7,3 +7,37 @@ repository: "ironmansoftware/universaldashboard.io"
 
 include:
   - _pages
+
+  og_image                 : "/assets/images/UDLogo.png"
+
+author:
+  name             : "Adam Driscoll"
+  avatar           : ""
+  bio              : ""
+  location         : ""
+  email            :
+  uri              : "https://universaldashboard.io"
+  home             : "https://universaldashboard.io"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "adamdriscoll"
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # https://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "adamdriscoll"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
