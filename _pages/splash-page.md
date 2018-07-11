@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/splash.jpg
+  overlay_image: /assets/images/splash.png
   cta_label: "Download"
   cta_url: "https://www.powershellgallery.com/packages/UniversalDashboard"
   caption: ""
@@ -34,6 +34,27 @@ feature_row3:
     title: "Host it anywhere"
     excerpt: "Universal Dashboard is cross-platform and can run anywhere PowerShell Core and ASP.NET Core is available. Host in Azure, IIS, as a Windows Service or simply the command line. Take advantage of Docker containers or jump into IoT with Raspberry Pi. Run in your existing infrastructure on Windows PowerShell. Universal Dashboard supports PowerShell v5.1+."
     url: "https://docs.universaldashboard.io/running-dashboards"
+    btn_label: "View the Docs"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/rest-api.png
+    title: "Super, simple REST APIs"
+    excerpt: "Expose your logic and cmdlets as REST APIs with simple PowerShell scripts. Wrap .NET components, PowerShell commands or any command line tool as a REST API. Protect your APIs with JSON Web Tokens to provide the ultimate cross-platform automation experience."
+    url: "https://docs.universaldashboard.io/rest-apis"
+    btn_label: "View the Docs"
+    btn_class: "btn--primary"
+feature_row5:
+  - image_path: /assets/images/chatroom.gif
+    title: "Ultimate customization"
+    excerpt: "Customize your dashboard to the ultimate degree. Use PowerShell to create completely custom components that take advantage of real-time updates with web sockets to create an amazing user experience."
+    url: "https://docs.universaldashboard.io/components/custom-components/powershell-elements"
+    btn_label: "View the Docs"
+    btn_class: "btn--primary"
+feature_row6:
+  - image_path: /assets/images/scheduled-endpoints.png
+    title: "Scheduled Tasks Made Easy"
+    excerpt: "Schedule endpoints to run on simple intervals to collect data for your dashboard or website. Store data in a built-in cache or in your database of choice."
+    url: "https://docs.universaldashboard.io/endpoints/scheduled-endpoints"
     btn_label: "View the Docs"
     btn_class: "btn--primary"
 ---
