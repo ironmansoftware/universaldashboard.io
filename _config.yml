@@ -8,7 +8,7 @@ repository: "ironmansoftware/universaldashboard.io"
 include:
   - _pages
 
-  og_image                 : "/assets/images/UDLogo.png"
+og_image                 : "/assets/images/UDLogo.png"
 
 author:
   name             : "Adam Driscoll"
