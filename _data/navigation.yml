@@ -5,5 +5,7 @@ main:
     url: https://github.com/ironmansoftware/universal-dashboard
   - title: "Demo"
     url: https://poshud.com
-  - title: "Buy"
-    url: https://ironmansoftware.com/universal-dashboard
+  - title: "Marketplace"
+    url: https://marketplace.universaldashboard.io
+  - title: "Pricing"
+    url: https://marketplace.universaldashboard.io/Pricing
