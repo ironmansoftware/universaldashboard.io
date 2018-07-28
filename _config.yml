@@ -10,6 +10,11 @@ include:
 
 og_image                 : "/assets/images/UDLogo.png"
 
+analytics:
+  provider               : "google" 
+  google:
+    tracking_id          : "UA-8902901-11"
+
 author:
   name             : "Adam Driscoll"
   avatar           : ""
@@ -24,7 +29,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "adamdriscoll"
+  github           : "ironmansoftware"
   gitlab           :
   google_plus      :
   keybase          :
