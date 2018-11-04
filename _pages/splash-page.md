@@ -10,7 +10,7 @@ header:
   cta_label: "Download"
   cta_url: "https://www.powershellgallery.com/packages/UniversalDashboard"
   caption: ""
-excerpt: "Universal Dashboard is a cross-platform PowerShell module for developing and hosting web-based, interactive dashboards."
+excerpt: "Universal Dashboard is an open-source, cross-platform PowerShell module for developing and hosting web-based, interactive dashboards."
 intro: 
   - excerpt: ''
 feature_row:
@@ -56,6 +56,12 @@ feature_row6:
     excerpt: "Schedule endpoints to run on simple intervals to collect data for your dashboard or website. Store data in a built-in cache or in your database of choice."
     url: "https://docs.universaldashboard.io/endpoints/scheduled-endpoints"
     btn_label: "View the Docs"
+    btn_class: "btn--primary"
+feature_row7:
+    title: "Universal Dashboard Community"
+    excerpt: "Universal Dashboard Community is 100% open-source and free. Check out the differences between Community and Enterprise."
+    url: "https://marketplace.universaldashboard.io/Pricing"
+    btn_label: "Feature Comparison"
     btn_class: "btn--primary"
 ---
 
