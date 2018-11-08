@@ -58,7 +58,8 @@ feature_row6:
     btn_label: "View the Docs"
     btn_class: "btn--primary"
 feature_row7:
-  - title: "Universal Dashboard Community"
+  - image_path: /assets/images/scheduled-endpoints.png
+    title: "Universal Dashboard Community"
     excerpt: "Universal Dashboard Community is 100% open-source and free. Check out the differences between Community and Enterprise."
     url: "https://marketplace.universaldashboard.io/Pricing"
     btn_label: "Feature Comparison"
