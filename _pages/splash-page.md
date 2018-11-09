@@ -26,7 +26,7 @@ feature_row2:
     alt: "login"
     title: "Security Built in"
     excerpt: "Lock down your websites with first-class security built in. Allow users to authenticate with OAuth providers like Facebook, Microsoft and Google or provide an internal authentication system like Active Directory. Lock down your REST APIs with JSON web tokens."
-    url: "https://docs.universaldashboard.io/login-pages"
+    url: "https://docs.universaldashboard.io/security/login-pages"
     btn_label: "View the Docs"
     btn_class: "btn--primary"
 feature_row3:
