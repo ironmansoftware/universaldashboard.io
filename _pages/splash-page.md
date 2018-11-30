@@ -10,7 +10,7 @@ header:
   cta_label: "Download"
   cta_url: "https://www.powershellgallery.com/packages/UniversalDashboard"
   caption: ""
-excerpt: "Universal Dashboard is a cross-platform PowerShell module for developing and hosting web-based, interactive dashboards."
+excerpt: "Universal Dashboard is an open-source, cross-platform PowerShell module for developing and hosting web-based, interactive dashboards."
 intro: 
   - excerpt: ''
 feature_row:
@@ -26,7 +26,7 @@ feature_row2:
     alt: "login"
     title: "Security Built in"
     excerpt: "Lock down your websites with first-class security built in. Allow users to authenticate with OAuth providers like Facebook, Microsoft and Google or provide an internal authentication system like Active Directory. Lock down your REST APIs with JSON web tokens."
-    url: "https://docs.universaldashboard.io/login-pages"
+    url: "https://docs.universaldashboard.io/security/login-pages"
     btn_label: "View the Docs"
     btn_class: "btn--primary"
 feature_row3:
@@ -57,6 +57,12 @@ feature_row6:
     url: "https://docs.universaldashboard.io/endpoints/scheduled-endpoints"
     btn_label: "View the Docs"
     btn_class: "btn--primary"
+feature_row7:
+  - title: "Universal Dashboard Community"
+    excerpt: "Universal Dashboard Community is 100% open-source and free. Check out the differences between Community and Enterprise."
+    url: "https://marketplace.universaldashboard.io/Pricing"
+    btn_label: "Feature Comparison"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -72,3 +78,5 @@ feature_row6:
 {% include feature_row id="feature_row5" type="right" %}
 
 {% include feature_row id="feature_row6" type="left" %}
+
+{% include feature_row id="feature_row7" type="center" %}
