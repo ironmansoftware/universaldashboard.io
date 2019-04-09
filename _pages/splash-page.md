@@ -60,7 +60,7 @@ feature_row6:
 feature_row7:
   - title: "Universal Dashboard Community"
     excerpt: "Universal Dashboard Community is 100% open-source and free. Check out the differences between Community and Enterprise."
-    url: "https://marketplace.universaldashboard.io/Pricing"
+    url: "https://docs.universaldashboard.io/feature-comparison"
     btn_label: "Feature Comparison"
     btn_class: "btn--primary"
 ---
