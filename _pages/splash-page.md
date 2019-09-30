@@ -58,7 +58,7 @@ feature_row6:
     btn_label: "View the Docs"
     btn_class: "btn--primary"
 feature_row7:
-  - image_path: /assets/images/udforge.png
+  - image_path: https://raw.githubusercontent.com/ironmansoftware/ud-forge/master/images/forge.gif
     title: "Desktop Applications"
     excerpt: "Build desktop applications with Universal Dashboard package them into installers. "
     url: "https://github.com/ironmansoftware/ud-forge"
