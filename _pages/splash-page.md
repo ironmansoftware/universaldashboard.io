@@ -58,6 +58,13 @@ feature_row6:
     btn_label: "View the Docs"
     btn_class: "btn--primary"
 feature_row7:
+  - image_path: /assets/images/udforge.png
+    title: "Desktop Applications"
+    excerpt: "Build desktop applications with Universal Dashboard package them into installers. "
+    url: "https://github.com/ironmansoftware/ud-forge"
+    btn_label: "Check out UDForge"
+    btn_class: "btn--primary"
+feature_row8:
   - title: "Universal Dashboard Community"
     excerpt: "Universal Dashboard Community is 100% open-source and free. Check out the differences between Community and Enterprise."
     url: "https://docs.universaldashboard.io/feature-comparison"
