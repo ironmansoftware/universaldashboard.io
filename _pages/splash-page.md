@@ -10,7 +10,7 @@ header:
   cta_label: "Learn More"
   cta_url: "https://youtu.be/_ckxYyDv4cg"
   caption: ""
-excerpt: "Universal Dashboard is an open-source, cross-platform PowerShell module for developing and hosting web-based, interactive dashboards."
+excerpt: "Universal Dashboard is the most popular web framework for PowerShell."
 intro: 
   - excerpt: ''
 feature_row:
