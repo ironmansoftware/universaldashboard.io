@@ -7,8 +7,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.8"
   overlay_image: /assets/images/splash.png
-  cta_label: "Download"
-  cta_url: "https://www.powershellgallery.com/packages/UniversalDashboard"
+  cta_label: "Learn More"
+  cta_url: "https://youtu.be/_ckxYyDv4cg"
   caption: ""
 excerpt: "Universal Dashboard is an open-source, cross-platform PowerShell module for developing and hosting web-based, interactive dashboards."
 intro: 
